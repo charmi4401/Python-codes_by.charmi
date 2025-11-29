@@ -140,8 +140,7 @@ print(a ^ b)  # 6
 """
       
 5.Contol Statements:
-a=input()
-print(a)
+
 
 
 
